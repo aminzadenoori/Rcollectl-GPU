@@ -46,7 +46,7 @@ devtools::install_github("yourusername/Rcollectlgpu")
 
 ## Example Output
 
-![CPU/GPU Monitoring Plot]([https://github.com/aminzadenoori/Rcollectl-GPU/blob/develgpu/image%20(1).png](https://github.com/aminzadenoori/Rcollectl-GPU/blob/develgpu/image%20(1).png)
+![CPU/GPU Monitoring Plot]([GPU monitoring])(https://github.com/aminzadenoori/Rcollectl-GPU/blob/develgpu/image%20(1).png)
 
 Shows CPU usage, memory, GPU utilization, and GPU memory over time.
 
